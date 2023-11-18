@@ -1,7 +1,7 @@
-<center>
+<div style="text-align:center">
     <img width="200px" src="https://avatars.githubusercontent.com/u/144692818">
     <h3>Growth Hack Group</h3>
-</center>
+</div>
 
 
 ## 🔧 Ferramentas
